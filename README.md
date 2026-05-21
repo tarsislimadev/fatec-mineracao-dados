@@ -1,5 +1,7 @@
 # fatec-mineracao-dados
 
-- [ ] http://www.luanborelli.net/ipeadatapy/docs/index.html
+https://cetic.br/
 
-- [ ] ipeadatapy
+https://cetic.br/pt/pesquisa/domicilios/
+
+
